@@ -1,7 +1,7 @@
 #include "MainMenuScene.h"
 #include "GameScene.h"
 #include "Definitions.h"
-#include "SonarFrameworks.h"
+#include <SonarFrameworks.h>
 
 USING_NS_CC;
 
